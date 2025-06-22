@@ -7,9 +7,8 @@ A fun, interactive, and customizable birthday wish website made using React, Tai
 
 - 🧁 3D birthday cake (GLB model)
 - 🎊 Confetti animation
-- 💬 Funny & customizable messages
-- 💖 Cool fonts (including Barbie style!)
-- 🌈 Beautiful background with SVG + glassmorphism
+- 💬 Customizable messages
+- 💖 Cool fonts
 - ⚡ Built with Vite + Tailwind CSS
 
 ---
