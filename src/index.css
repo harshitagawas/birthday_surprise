@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Barbie";
+  src: url("./assets/fonts/Barbie.otf") format("opentype");
+}
+
+@theme {
+  --font-barbie: "Barbie", "cursive";
+}
